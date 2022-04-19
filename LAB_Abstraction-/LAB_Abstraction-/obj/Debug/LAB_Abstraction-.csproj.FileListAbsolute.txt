@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction-.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction-.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction_.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction_.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction-.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction-.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\bin\Debug\LAB_Abstraction-.exe.config
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\bin\Debug\LAB_Abstraction-.exe
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\bin\Debug\LAB_Abstraction-.pdb
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction-.exe
+C:\Users\Lenovo\Documents\GitHub\LAB_Abstractions-\LAB_Abstraction-\LAB_Abstraction-\obj\Debug\LAB_Abstraction-.pdb
